@@ -34,7 +34,6 @@ public class A16 {
         catch(Exception v2_2) {
             v2_2.printStackTrace();
         }
-        LogUtils.d("hmc", keyInfo);
         return a16;
     }
 
